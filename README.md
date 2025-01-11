@@ -1,5 +1,5 @@
  <h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Windows <a href="#"><img width="20px"src="https://th.bing.com/th/id/R.046fa91f8d199d90b754d3eafd17b24f?rik=p%2b22qfykols3sg&pid=ImgRaw&r=0"></a></b></div> </h2>
- <a href="https://github.com/https://github.com/XSohaib/" target="_blank"><img src="https://jazz.com.pk/assets/images/spotify-premium-black.png" /></a>
+ <a href="https://github.com/XSohaib/" target="_blank"><img src="https://jazz.com.pk/assets/images/spotify-premium-black.png" /></a>
 
 <h3 align="center"><strong><a href="#requirements">Requirements</a> ║ <a href="#features">Features</a> ║ <a href="#installation--update">Installation</a> ║ <a href="#installation--update">Update</a> ║ <a href="#uninstall">Uninstall</a> ║ <a href="#Join-my-discord">Discord</a> ║ <a href="#disclaimer">Disclaimer</a></strong></h3>
 
@@ -39,7 +39,7 @@
 
 <h1>Join my Discord:</h1>
 
-<a href="https://discord.gg/mythicalbottuz" target="_blank"><img src="https://cdn.discordapp.com/attachments/417017959802994710/1132664651528798270/bmac.png" width="205" alt="bmc.link/r3mz0" /></a>
+<a href="https://discord.gg/mythicalbottuz" target="_blank"><img src="[[https://cdn.discordapp.com/attachments/417017959802994710/1132664651528798270/bmac.png](https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg)](https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg)" width="205" alt="bmc.link/r3mz0" /></a>
 
 <h1>Disclaimer:</h1>
 
